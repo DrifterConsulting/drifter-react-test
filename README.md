@@ -1,23 +1,12 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
 <h1 align="center">
-  Gatsby minimal starter
+  Drifter React Test - New Engineers
 </h1>
 
-## 🚀 Quick start
+## 🚀 Instructions
 
-1.  **Create a Gatsby site.**
+[VIDEO BRIEFING](https://www.loom.com/share/95d1a723096f4aac85be87b111d2470b)
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
-
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
-
+1.  **Clone this repo and setup your own branch**
 2.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
@@ -26,14 +15,28 @@
     cd my-gatsby-site/
     npm run develop
     ```
+    or use `gatsby develop` to launch your local testing server.
 
-3.  **Open the code and start customizing!**
+5.  **Open the code and start customizing!**
 
     Your site is now running at http://localhost:8000!
 
     Edit `src/pages/index.js` to see your site update in real-time!
 
-4.  **Learn more**
+3.  **Choose a component from the Figma file.**
+
+    [Link to the file here](https://www.figma.com/file/E5QpBkONnsYK2wMV3oD0Nz/Onboarding-Test?node-id=1%3A10)
+
+4.  **Inform Mike or Grace in Upwork.**
+    
+    We need to know.
+
+    1.  Which component you are working on.
+    2.  Your estimated time to complete (in hours).
+    3.  You budget for the first milestone. 
+
+
+5.  **Learn more**
 
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
@@ -47,8 +50,6 @@
 
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-## 🚀 Quick start (Gatsby Cloud)
+## 🚀 The public build you can find here.
 
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+[Public Build](https://drifter-react-test.netlify.app)
