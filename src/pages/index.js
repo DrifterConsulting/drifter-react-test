@@ -1,4 +1,5 @@
 import * as React from "react"
+import Subheading from "../components/Subheading";
 
 // styles
 const pageStyles = {
@@ -149,7 +150,8 @@ const IndexPage = () => {
         Make sure to check the README in the repo for more details and important links.
         You can link your components to this page. 
       </p>
-    </main>
+      <Subheading />
+   </main>
   )
 }
 
